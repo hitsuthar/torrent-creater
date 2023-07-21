@@ -1,4 +1,4 @@
-name: torrenttools
+name: mirrorUrl
 on:
   workflow_dispatch:
     inputs:
